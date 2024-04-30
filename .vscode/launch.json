@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "name": "Deploy Cloud Function",
+      "type": "cloudcode.cloudfunctions",
+      "request": "launch",
+      "functionName": "mini-proj-cloud-fun",
+      "region": "asia-south1",
+      "gen": "GEN_2",
+      "revision": "mini-proj-cloud-fun-00019-nav",
+      "entryPoint": "app",
+      "runtime": "nodejs20",
+      "testInput": ""
+    }
+  ]
+}
